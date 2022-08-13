@@ -1,4 +1,6 @@
 *.htm
+*.html
+*.drc
 *.SchDocPreview
 *.PcbDocPreview
 History/**
